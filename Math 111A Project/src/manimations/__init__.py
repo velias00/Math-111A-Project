@@ -5,3 +5,5 @@ class demo(Scene):
         t = Text("Hello")
         self.play(Write(t))
         self.wait(3)
+
+o
